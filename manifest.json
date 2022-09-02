@@ -1,0 +1,13 @@
+{
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/https://ao320.github.io/GitHubPageSample/",
+    "name": "GitHubSample",
+    "short_name": "sample",
+    "description": "",
+    "icons": {
+        "name": "OIP[1].8ev4FSuwW7ykkLIz6KsedAHaHa"
+    }
+}
